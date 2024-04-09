@@ -1,0 +1,109 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Resources\circle.png" />
+    <None Remove="Resources\close.png" />
+    <None Remove="Resources\copy.png" />
+    <None Remove="Resources\cursor.png" />
+    <None Remove="Resources\cut.png" />
+    <None Remove="Resources\dry-clean.png" />
+    <None Remove="Resources\ellipse.png" />
+    <None Remove="Resources\fill.png" />
+    <None Remove="Resources\flip-horizontal.png" />
+    <None Remove="Resources\flip-vertical.png" />
+    <None Remove="Resources\import-image.png" />
+    <None Remove="Resources\import-objects.png" />
+    <None Remove="Resources\line.png" />
+    <None Remove="Resources\new-file.png" />
+    <None Remove="Resources\no-stroke.png" />
+    <None Remove="Resources\paint-32x32.png" />
+    <None Remove="Resources\paint-64x64.png" />
+    <None Remove="Resources\paste.png" />
+    <None Remove="Resources\picture.png" />
+    <None Remove="Resources\rectangle.png" />
+    <None Remove="Resources\redo-disable.png" />
+    <None Remove="Resources\redo.png" />
+    <None Remove="Resources\rotate-left.png" />
+    <None Remove="Resources\rotate-right.png" />
+    <None Remove="Resources\rotate.png" />
+    <None Remove="Resources\save.png" />
+    <None Remove="Resources\selection.png" />
+    <None Remove="Resources\square-shapes.png" />
+    <None Remove="Resources\square.png" />
+    <None Remove="Resources\stroke-size.png" />
+    <None Remove="Resources\stroke-type.png" />
+    <None Remove="Resources\stroke.png" />
+    <None Remove="Resources\text.png" />
+    <None Remove="Resources\toImage.png" />
+    <None Remove="Resources\undo-disable.png" />
+    <None Remove="Resources\undo.png" />
+    <None Remove="Resources\zoom-in.png" />
+    <None Remove="Resources\zoom-out.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FontAwesome.WPF" Version="4.7.0.9" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+    <PackageReference Include="Syncfusion.Shared.WPF" Version="23.1.44" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Resources\close.png" />
+    <Resource Include="Resources\copy.png" />
+    <Resource Include="Resources\cut.png" />
+    <Resource Include="Resources\fill.png" />
+    <Resource Include="Resources\flip-horizontal.png" />
+    <Resource Include="Resources\flip-vertical.png" />
+    <Resource Include="Resources\import-image.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Circle2D\Circle2D.csproj" />
+    <ProjectReference Include="..\Contract\Contract.csproj" />
+    <ProjectReference Include="..\Ellipse2D\Ellipse2D.csproj" />
+    <ProjectReference Include="..\Line2D\Line2D.csproj" />
+    <ProjectReference Include="..\Rectangle2D\Rectangle2D.csproj" />
+    <ProjectReference Include="..\Square2D\Square2D.csproj" />
+    <ProjectReference Include="..\Text2D\Text2D.csproj" />
+
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Resources\circle.png" />
+    <Resource Include="Resources\ellipse.png" />
+    <Resource Include="Resources\import-objects.png" />
+    <Resource Include="Resources\line.png" />
+    <Resource Include="Resources\new-file.png" />
+    <Resource Include="Resources\no-stroke.png" />
+    <Resource Include="Resources\paint-32x32.png" />
+    <Resource Include="Resources\paint-64x64.png" />
+    <Resource Include="Resources\paste.png" />
+    <Resource Include="Resources\picture.png" />
+    <Resource Include="Resources\rectangle.png" />
+    <Resource Include="Resources\redo-disable.png" />
+    <Resource Include="Resources\redo.png" />
+    <Resource Include="Resources\rotate-left.png" />
+    <Resource Include="Resources\rotate-right.png" />
+    <Resource Include="Resources\save.png" />
+    <Resource Include="Resources\selection.png" />
+    <Resource Include="Resources\square-shapes.png" />
+    <Resource Include="Resources\square.png" />
+    <Resource Include="Resources\stroke-size.png" />
+    <Resource Include="Resources\stroke-type.png" />
+    <Resource Include="Resources\stroke.png" />
+    <Resource Include="Resources\text.png" />
+    <Resource Include="Resources\toImage.png" />
+    <Resource Include="Resources\undo-disable.png" />
+    <Resource Include="Resources\undo.png" />
+    <Resource Include="Resources\zoom-in.png" />
+    <Resource Include="Resources\zoom-out.png" />
+  </ItemGroup>
+
+</Project>
