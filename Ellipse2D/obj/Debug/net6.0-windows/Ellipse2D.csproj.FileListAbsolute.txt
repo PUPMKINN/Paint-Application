@@ -1,0 +1,15 @@
+\\Mac\Home\Downloads\Paint-main\Ellipse2D\bin\Debug\net6.0-windows\Ellipse2D.deps.json
+\\Mac\Home\Downloads\Paint-main\Ellipse2D\bin\Debug\net6.0-windows\Ellipse2D.dll
+\\Mac\Home\Downloads\Paint-main\Ellipse2D\bin\Debug\net6.0-windows\Ellipse2D.pdb
+\\Mac\Home\Downloads\Paint-main\Ellipse2D\bin\Debug\net6.0-windows\Contract.dll
+\\Mac\Home\Downloads\Paint-main\Ellipse2D\bin\Debug\net6.0-windows\Contract.pdb
+\\Mac\Home\Downloads\Paint-main\Ellipse2D\obj\Debug\net6.0-windows\Ellipse2D.csproj.AssemblyReference.cache
+\\Mac\Home\Downloads\Paint-main\Ellipse2D\obj\Debug\net6.0-windows\Ellipse2D.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Downloads\Paint-main\Ellipse2D\obj\Debug\net6.0-windows\Ellipse2D.AssemblyInfoInputs.cache
+\\Mac\Home\Downloads\Paint-main\Ellipse2D\obj\Debug\net6.0-windows\Ellipse2D.AssemblyInfo.cs
+\\Mac\Home\Downloads\Paint-main\Ellipse2D\obj\Debug\net6.0-windows\Ellipse2D.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\Paint-main\Ellipse2D\obj\Debug\net6.0-windows\Ellipse2D.csproj.Up2Date
+\\Mac\Home\Downloads\Paint-main\Ellipse2D\obj\Debug\net6.0-windows\Ellipse2D.dll
+\\Mac\Home\Downloads\Paint-main\Ellipse2D\obj\Debug\net6.0-windows\refint\Ellipse2D.dll
+\\Mac\Home\Downloads\Paint-main\Ellipse2D\obj\Debug\net6.0-windows\Ellipse2D.pdb
+\\Mac\Home\Downloads\Paint-main\Ellipse2D\obj\Debug\net6.0-windows\ref\Ellipse2D.dll

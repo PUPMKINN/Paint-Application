@@ -1,0 +1,15 @@
+\\Mac\Home\Downloads\Paint-main\Line2D\bin\Debug\net6.0-windows\Line2D.deps.json
+\\Mac\Home\Downloads\Paint-main\Line2D\bin\Debug\net6.0-windows\Line2D.dll
+\\Mac\Home\Downloads\Paint-main\Line2D\bin\Debug\net6.0-windows\Line2D.pdb
+\\Mac\Home\Downloads\Paint-main\Line2D\bin\Debug\net6.0-windows\Contract.dll
+\\Mac\Home\Downloads\Paint-main\Line2D\bin\Debug\net6.0-windows\Contract.pdb
+\\Mac\Home\Downloads\Paint-main\Line2D\obj\Debug\net6.0-windows\Line2D.csproj.AssemblyReference.cache
+\\Mac\Home\Downloads\Paint-main\Line2D\obj\Debug\net6.0-windows\Line2D.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Downloads\Paint-main\Line2D\obj\Debug\net6.0-windows\Line2D.AssemblyInfoInputs.cache
+\\Mac\Home\Downloads\Paint-main\Line2D\obj\Debug\net6.0-windows\Line2D.AssemblyInfo.cs
+\\Mac\Home\Downloads\Paint-main\Line2D\obj\Debug\net6.0-windows\Line2D.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\Paint-main\Line2D\obj\Debug\net6.0-windows\Line2D.csproj.Up2Date
+\\Mac\Home\Downloads\Paint-main\Line2D\obj\Debug\net6.0-windows\Line2D.dll
+\\Mac\Home\Downloads\Paint-main\Line2D\obj\Debug\net6.0-windows\refint\Line2D.dll
+\\Mac\Home\Downloads\Paint-main\Line2D\obj\Debug\net6.0-windows\Line2D.pdb
+\\Mac\Home\Downloads\Paint-main\Line2D\obj\Debug\net6.0-windows\ref\Line2D.dll
