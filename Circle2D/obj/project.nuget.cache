@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "5wJc4IvGgn6KNYM5AX4gSeYWQ+amN1P23AmnKzYJwEctT+zgr+OL2Ip9kRIPfbqKYFrw9nMEQ4eRNBgGNPPdHA==",
+  "success": true,
+  "projectFilePath": "\\\\Mac\\Home\\Downloads\\Paint-main\\Circle2D\\Circle2D.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\macbook\\.nuget\\packages\\syncfusion.licensing\\23.1.44\\syncfusion.licensing.23.1.44.nupkg.sha512",
+    "C:\\Users\\macbook\\.nuget\\packages\\syncfusion.shared.wpf\\23.1.44\\syncfusion.shared.wpf.23.1.44.nupkg.sha512"
+  ],
+  "logs": []
+}

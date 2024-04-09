@@ -1,0 +1,12 @@
+\\Mac\Home\Downloads\Paint-main\Contract\bin\Debug\net6.0-windows\Contract.deps.json
+\\Mac\Home\Downloads\Paint-main\Contract\bin\Debug\net6.0-windows\Contract.dll
+\\Mac\Home\Downloads\Paint-main\Contract\bin\Debug\net6.0-windows\Contract.pdb
+\\Mac\Home\Downloads\Paint-main\Contract\obj\Debug\net6.0-windows\Contract.csproj.AssemblyReference.cache
+\\Mac\Home\Downloads\Paint-main\Contract\obj\Debug\net6.0-windows\Contract.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Downloads\Paint-main\Contract\obj\Debug\net6.0-windows\Contract.AssemblyInfoInputs.cache
+\\Mac\Home\Downloads\Paint-main\Contract\obj\Debug\net6.0-windows\Contract.AssemblyInfo.cs
+\\Mac\Home\Downloads\Paint-main\Contract\obj\Debug\net6.0-windows\Contract.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\Paint-main\Contract\obj\Debug\net6.0-windows\Contract.dll
+\\Mac\Home\Downloads\Paint-main\Contract\obj\Debug\net6.0-windows\refint\Contract.dll
+\\Mac\Home\Downloads\Paint-main\Contract\obj\Debug\net6.0-windows\Contract.pdb
+\\Mac\Home\Downloads\Paint-main\Contract\obj\Debug\net6.0-windows\ref\Contract.dll

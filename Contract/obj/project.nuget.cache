@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "aUdlGWhRTgjh+2C/+X/SbYWCwja0+IwjJQIYr/FEuXtGpm7eb1hSu+M2O/BEnVcUOiCd/41gT6Qg262h0rdYoA==",
+  "success": true,
+  "projectFilePath": "\\\\Mac\\Home\\Downloads\\Paint-main\\Contract\\Contract.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\macbook\\.nuget\\packages\\syncfusion.licensing\\23.1.44\\syncfusion.licensing.23.1.44.nupkg.sha512",
+    "C:\\Users\\macbook\\.nuget\\packages\\syncfusion.shared.wpf\\23.1.44\\syncfusion.shared.wpf.23.1.44.nupkg.sha512"
+  ],
+  "logs": []
+}

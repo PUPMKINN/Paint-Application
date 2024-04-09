@@ -1,0 +1,73 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Circle2D/1.0.0": {
+        "dependencies": {
+          "Contract": "1.0.0",
+          "Syncfusion.Shared.WPF": "23.1.44"
+        },
+        "runtime": {
+          "Circle2D.dll": {}
+        }
+      },
+      "Syncfusion.Licensing/23.1.44": {
+        "runtime": {
+          "lib/net6.0/Syncfusion.Licensing.dll": {
+            "assemblyVersion": "23.1.44.0",
+            "fileVersion": "23.1.44.0"
+          }
+        }
+      },
+      "Syncfusion.Shared.WPF/23.1.44": {
+        "dependencies": {
+          "Syncfusion.Licensing": "23.1.44"
+        },
+        "runtime": {
+          "lib/net6.0-windows7.0/Syncfusion.Shared.WPF.dll": {
+            "assemblyVersion": "23.1.44.0",
+            "fileVersion": "23.1.44.0"
+          }
+        }
+      },
+      "Contract/1.0.0": {
+        "dependencies": {
+          "Syncfusion.Shared.WPF": "23.1.44"
+        },
+        "runtime": {
+          "Contract.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Circle2D/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Syncfusion.Licensing/23.1.44": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-83M4d0oPKjTK9PYN4a2OTzqOHUmkZ7YaGlnnTZ5UIx5u5dNM8DEl37NJQBWt1FSDFUf3kXqJTrZcu6h2ClJ/2w==",
+      "path": "syncfusion.licensing/23.1.44",
+      "hashPath": "syncfusion.licensing.23.1.44.nupkg.sha512"
+    },
+    "Syncfusion.Shared.WPF/23.1.44": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-pf6gb5YF2wJhhwDi9iM9BiOqrARRbsKa/lwXW5UtoJVgfWXC+q9PGcWqIPtRJ6o7472e0vgpxDv0FVHtQw2Dzw==",
+      "path": "syncfusion.shared.wpf/23.1.44",
+      "hashPath": "syncfusion.shared.wpf.23.1.44.nupkg.sha512"
+    },
+    "Contract/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
